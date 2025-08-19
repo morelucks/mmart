@@ -1,4 +1,3 @@
-// app/components/category/CategoryProductGrid.tsx
 'use client';
 
 import React, { useState } from 'react';

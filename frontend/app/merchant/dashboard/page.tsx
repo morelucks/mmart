@@ -1,4 +1,3 @@
-// app/merchant/dashboard/page.tsx
 import React from 'react';
 import Layout from '@/app/components/common/Layout';
 import Dashboard from '@/app/components/merchant/Dashboard';

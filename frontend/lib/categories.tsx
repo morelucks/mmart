@@ -1,4 +1,3 @@
-// lib/categories.tsx
 'use client';
 
 import { 

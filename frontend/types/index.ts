@@ -1,4 +1,3 @@
-// types/index.ts
 import { IconProps } from '@phosphor-icons/react';
 
 export interface Seller {

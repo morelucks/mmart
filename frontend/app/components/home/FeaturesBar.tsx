@@ -1,4 +1,3 @@
-// app/components/home/FeaturesBar.tsx
 'use client';
 
 import React from 'react';

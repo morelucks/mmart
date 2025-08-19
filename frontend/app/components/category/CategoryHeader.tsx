@@ -1,4 +1,3 @@
-// app/components/category/CategoryHeader.tsx
 'use client';
 
 import React from 'react';

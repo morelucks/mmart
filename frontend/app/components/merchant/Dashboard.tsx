@@ -1,4 +1,3 @@
-// app/components/merchant/Dashboard.tsx
 'use client';
 
 import React, { useState } from 'react';

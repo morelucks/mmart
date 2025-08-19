@@ -1,4 +1,3 @@
-// app/page.tsx
 import React from 'react';
 import Layout from '@/app/components/common/Layout';
 import Hero from '@/app/components/home/Hero';

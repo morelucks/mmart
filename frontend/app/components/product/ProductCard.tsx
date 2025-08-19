@@ -1,4 +1,3 @@
-// components/product/ProductCard.tsx
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { Card } from '../ui/Card';

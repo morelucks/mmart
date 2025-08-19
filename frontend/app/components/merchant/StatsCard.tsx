@@ -1,4 +1,3 @@
-// app/components/merchant/StatsCard.tsx
 import React from 'react';
 import { Card, CardContent } from '@/app/components/ui/Card';
 import { TrendUp, TrendDown } from '@phosphor-icons/react';

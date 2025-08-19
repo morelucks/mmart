@@ -1,4 +1,3 @@
-// app/product/[id]/page.tsx
 import React from 'react';
 import { notFound } from 'next/navigation';
 import Layout from '@/app/components/common/Layout';

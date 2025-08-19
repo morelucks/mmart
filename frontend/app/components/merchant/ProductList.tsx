@@ -1,4 +1,3 @@
-// app/components/merchant/ProductList.tsx
 import React from 'react';
 import Link from 'next/link';
 import { Button } from '@/app/components/ui/Button';

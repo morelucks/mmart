@@ -1,4 +1,3 @@
-// app/merchant/upload/page.tsx
 import React from 'react';
 import Layout from '@/app/components/common/Layout';
 import ProductUpload from '@/app/components/merchant/ProductUpload';

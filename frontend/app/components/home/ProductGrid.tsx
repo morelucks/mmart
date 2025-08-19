@@ -1,4 +1,3 @@
-// app/components/home/ProductGrid.tsx
 'use client';
 
 import React, { useState } from 'react';
